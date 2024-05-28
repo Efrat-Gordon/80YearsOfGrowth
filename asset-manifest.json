@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/80YearsOfGrowth/static/css/main.c2831eb1.css",
+    "main.js": "/80YearsOfGrowth/static/js/main.2d3ac736.js",
+    "static/js/453.ed3810f9.chunk.js": "/80YearsOfGrowth/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/80YearsOfGrowth/index.html",
+    "main.c2831eb1.css.map": "/80YearsOfGrowth/static/css/main.c2831eb1.css.map",
+    "main.2d3ac736.js.map": "/80YearsOfGrowth/static/js/main.2d3ac736.js.map",
+    "453.ed3810f9.chunk.js.map": "/80YearsOfGrowth/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2831eb1.css",
+    "static/js/main.2d3ac736.js"
+  ]
+}
