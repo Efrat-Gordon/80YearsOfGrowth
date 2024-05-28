@@ -81,7 +81,7 @@ function App() {
 
   return (
     <div className="App container mx-auto p-4">
-      <h1 className="text-4xl font-bold text-center mb-8">Video Timestamps</h1>
+      <h1 className="text-4xl font-bold text-center mb-8">80 Years of Growth</h1>
       <div className="flex flex-col lg:flex-row gap-6">
         <div className="lg:w-1/3">
           <div className="grid grid-cols-1 gap-6">
