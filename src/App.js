@@ -18,11 +18,6 @@ function App() {
       return response.json();
     };
 
-    const fetchFromLocal = async () => {
-      console.log('Fetching from local JSON...');
-      return import('./videos.json').then(module => module.default);
-    };
-
     const fetchData = async () => {
       try {
         const jsonData = await fetchFromGoogleDrive();
