@@ -30,13 +30,7 @@ function App() {
         setVideos(jsonData);
       } catch (error) {
         console.error('Error fetching from Google Drive:', error);
-        try {
-          const localJsonData = await fetchFromLocal();
-          console.log('Successfully fetched data from local JSON');
-          setVideos(localJsonData);
-        } catch (localError) {
-          console.error('Error fetching from local JSON:', localError);
-        }
+        setVideos(videosData);
       }
     };
 
